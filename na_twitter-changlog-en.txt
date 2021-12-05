@@ -1,0 +1,6 @@
+Version 2.10 Changelog:
+
+>[Added] Hide Chat Feature
+>[Fix] Phone Overheating
+>[Fix] Battery consumption problem
+>[Fixed] all the problems of the old version
