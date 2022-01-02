@@ -1,4 +1,4 @@
-Version 2.10 Changelog:
+Version 2.20 Changelog:
 
 >[Added] Hide Chat Feature
 >[Fix] Phone Overheating
